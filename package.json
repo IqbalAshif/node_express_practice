@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "Practicing node and express skill by following the tutorial of freeCodeCamp https://www.youtube.com/watch?v=Oe421EPjeBE&t=3234s",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IqbalAshif/node_express_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IqbalAshif/node_express_practice/issues"
+  },
+  "homepage": "https://github.com/IqbalAshif/node_express_practice#readme",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "lodash": "^4.17.21"
+  }
+}
