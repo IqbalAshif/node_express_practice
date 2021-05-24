@@ -4,7 +4,8 @@
   "description": "Practicing node and express skill by following the tutorial of freeCodeCamp https://www.youtube.com/watch?v=Oe421EPjeBE&t=3234s",
   "main": "1-intro.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,9 @@
   "homepage": "https://github.com/IqbalAshif/node_express_practice#readme",
   "keywords": [],
   "dependencies": {
-    "bootstrap": "^5.0.1",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
   }
 }
